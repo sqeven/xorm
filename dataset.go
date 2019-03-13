@@ -5,7 +5,7 @@
 package xorm
 
 import (
-	tablib "github.com/agrison/go-tablib"
+	tablib "github.com/sqeven/go-tablib"
 )
 
 // NewDataset creates a new Dataset.

@@ -7,7 +7,7 @@ package xorm
 import (
 	"os"
 
-	tablib "github.com/agrison/go-tablib"
+	tablib "github.com/sqeven/go-tablib"
 )
 
 type Databook struct {

@@ -28,13 +28,13 @@
 		},
 		{
 			"checksumSHA1": "AxWJDQDWvHM7VjLHdl6KBKrHwiQ=",
-			"path": "github.com/agrison/go-tablib",
+			"path": "github.com/sqeven/go-tablib",
 			"revision": "4930582c22eec7bfc0e5b47e0246d5048a78fe49",
 			"revisionTime": "2016-03-10T14:30:25Z"
 		},
 		{
 			"checksumSHA1": "KcCHg7UtwWWtVo9XsM0hLcDUZRA=",
-			"path": "github.com/agrison/mxj",
+			"path": "github.com/sqeven/mxj",
 			"revision": "1269f8afb3b42d0e7b9cf60041e8e187727c88d6",
 			"revisionTime": "2016-03-10T14:26:25Z"
 		},

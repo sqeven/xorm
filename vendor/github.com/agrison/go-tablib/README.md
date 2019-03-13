@@ -2,12 +2,12 @@
 
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)][license]
 [![Go Documentation](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)][godocs]
-[![Go Report Card](https://goreportcard.com/badge/github.com/agrison/go-tablib)][goreportcard]
+[![Go Report Card](https://goreportcard.com/badge/github.com/sqeven/go-tablib)][goreportcard]
 [![Build Status](https://travis-ci.org/agrison/go-tablib.svg?branch=master)](https://travis-ci.org/agrison/go-tablib)
 
-[license]: https://github.com/agrison/go-tablib/blob/master/LICENSE
-[godocs]: https://godoc.org/github.com/agrison/go-tablib
-[goreportcard]: https://goreportcard.com/report/github.com/agrison/go-tablib
+[license]: https://github.com/sqeven/go-tablib/blob/master/LICENSE
+[godocs]: https://godoc.org/github.com/sqeven/go-tablib
+[goreportcard]: https://goreportcard.com/report/github.com/sqeven/go-tablib
 
 Go-Tablib is a format-agnostic tabular dataset library, written in Go.
 This is a port of the famous Python's [tablib](https://github.com/kennethreitz/tablib) by Kenneth Reitz with some new features.
@@ -578,7 +578,7 @@ Will output the following JSON representation of the Databook:
 ## Installation
 
 ```bash
-go get github.com/agrison/go-tablib
+go get github.com/sqeven/go-tablib
 ```
 
 For those wanting the v1 version where export methods returned a `string` and not an `Exportable`:
